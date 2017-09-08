@@ -16,3 +16,5 @@ public class User
 
 4) Pour deserializer :
   var userList = JsonConvert.DeserializeObject<List<User>>(users);
+
+5) Questions ? voir le code.
